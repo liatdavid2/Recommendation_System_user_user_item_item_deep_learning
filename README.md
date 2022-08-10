@@ -16,4 +16,6 @@ Four types of Recommendation Systems:
 <p>Train and find link_embedding and movie_embedding layers.</p>
 <img src="https://user-images.githubusercontent.com/11797397/183889505-27729826-645a-420b-84ca-716e0d5d84f9.png" width=40% height=40%/>
 <img src="https://user-images.githubusercontent.com/11797397/183889786-977660fb-8b5f-475e-b482-866126d31746.png" width=80% height=50%/>
-
+<h5>4. LightFM</h5>
+<p>LightFM is a Python implementation of a number of popular recommendation algorithms.</p>
+<a href='https://making.lyst.com/lightfm/docs/home.html'>https://making.lyst.com/lightfm/docs/home.html</a>
