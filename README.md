@@ -1,6 +1,6 @@
-# Recommendation_System 3 versions:
+# Recommendation System 3 versions:
 
-Four types of Recommendation Systems:
+<h4>Four types of Recommendation Systems:</h4>
 <h5>1. Creating User-to-User Similarity Matrix</h5>
 
 <span><img src="https://user-images.githubusercontent.com/11797397/183887131-b4d61ce8-7938-4e42-912a-c80050ac0ddb.png" width=30% height=50%/>
